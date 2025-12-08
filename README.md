@@ -21,6 +21,21 @@ Servir como material de consulta e estudo futuro
 
 Ajudar outros estudantes iniciantes em Portugol
 
+## 🗂️ Estrutura do Repositório
+
+Se você estiver usando branches para separar os bimestres:
+
+alp-i → Exercícios do 1º bimestre
+
+alp-ii → Exercícios do 2º bimestre
+
+Se optar por organizar em pastas:
+
+/
+├── alp-i/     → Exercícios da disciplina Algoritmo e Lógica de Programação I
+
+└── alp-ii/    → Exercícios da disciplina Algoritmo e Lógica de Programação II
+
 ## 📚 Conteúdos Abordados
 ### Algoritmo e Lógica de Programação I
 
