@@ -36,7 +36,6 @@ Se optar por organizar em pastas:
 
 └── alp-ii/    → Exercícios da disciplina Algoritmo e Lógica de Programação II
 
-
 ## 📚 Conteúdos Abordados
 ### Algoritmo e Lógica de Programação I
 
